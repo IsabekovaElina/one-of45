@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/one-of45/static/css/main.4eb4e164.css",
+    "main.js": "/one-of45/static/js/main.44d5033e.js",
+    "index.html": "/one-of45/index.html",
+    "main.4eb4e164.css.map": "/one-of45/static/css/main.4eb4e164.css.map",
+    "main.44d5033e.js.map": "/one-of45/static/js/main.44d5033e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eb4e164.css",
+    "static/js/main.44d5033e.js"
+  ]
+}
